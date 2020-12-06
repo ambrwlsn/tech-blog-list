@@ -1,0 +1,9 @@
+{
+  "name": "tech-blog-list",
+  "version": "1.0.0",
+  "description": "A tech blog list. For the love of personal websites.",
+  "main": "index.html",
+  "scripts": {},
+  "author": "Amber Wilson",
+  "license": "ISC"
+}

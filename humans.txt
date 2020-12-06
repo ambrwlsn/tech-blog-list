@@ -1,0 +1,12 @@
+/* TEAM */
+	Author:Amber Wilson
+	Contact: ambrwlsn90@gmail.com
+	Twitter: @ambrwlsn90
+	From:Berlin, Germany
+		
+
+/* SITE */
+	Last update:2020/12/06
+	Language: English
+	Doctype:HTML5
+	IDE: Visual Studio Code 3, iTerm2
